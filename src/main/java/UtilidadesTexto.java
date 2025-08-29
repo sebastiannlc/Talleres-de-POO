@@ -28,7 +28,7 @@ public static void menu() {
                 desencriptarTexto();
                 break;
             case 5:
-                System.out.println("Cerrando el programa.");
+                System.out.println("Cerrando el programa, hasta luego.");
                 break;
             default:
                 System.out.println("Opcion no valida, por favor intente una vez más.");
